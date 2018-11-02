@@ -1,0 +1,17 @@
+{
+  "name": "trillsdk",
+  "version": "1.0.0",
+  "description": "This is Test SDK For Trillbit Technologies Private Limited",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sound",
+    "to",
+    "Data",
+    "Sound"
+  ],
+  "author": "Trillbit Technologies Private Limited",
+  "license": "ISC"
+}
