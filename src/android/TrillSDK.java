@@ -15,7 +15,7 @@ public class TrillSDK extends CordovaPlugin {
     @Override
     public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
         if (action.equals("init")) {
-            this.init(args, callback);
+            this.init(args, callbackContext);
             return true;
         }
         return false;
